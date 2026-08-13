@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Olá, eu sou Gabriela Orth Fortunato 👋
 
-<!--
-**Gabriela-Orth/Gabriela-Orth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Apaixonada por [tecnologia / área de interesse]
+📍 Tubarão, SC, Brasil
+📚 Atualmente estudando
+🏢estudo no Cedup
 
-Here are some ideas to get you started:
+🎯 Objetivos
+🚀 [Objetivo profissional]
+📚 [Objetivo de estudos]
+🌎 [Objetivo pessoal/profissional]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Curiosidades sobre mim
+Tenho 15 anos, comecei a aprender a programar em fevereiro de 2026. Tenho uma cachorra de 9 anos 
+ela me acompanha desde os 6 anos ela é uma pinscher, sempre gostei de mexer com tecnologia foi
+uma das coisas que me senti vou a programa.
+
+⭐ Obrigado por visitar meu perfil!
